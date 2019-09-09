@@ -1,2 +1,2 @@
 # Numpy
-Practice Numpy session
+NumPy practice session
